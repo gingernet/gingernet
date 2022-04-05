@@ -25,9 +25,13 @@
 
 - 坚果：坚果目前是华为云享专家，InfoQ签约作者，CSDN博客专家，阿里云博客专家，51CTO博客首席体验官，开源项目gin-vue-admin成员之一，专注于大前端技术的分享，包括Flutter,小程序,安卓，鸿蒙，VUE，JavaScript。
 
-- 聂健丰：毕业于惠州经济职业技术学院。shopify自建站卖家，社媒运营人员。曾在跨境电商、传统外贸公司工作2年。popoface.com mommbaby.com  dongyuantoys.com网站运营(已经退出)
-
 - xy: 负责前端开发，xy 目前在某独角兽公司担任高级前端开发，常年混迹各大社区,  是阿里云博客专家，公众号:前端开发爱好者作者; 专注于大前端技术的分享，包括javaScript、vue、react、nodejs、小程序、混合开发、可视化等。
+
+- sz：前端开发，加入团队 2 年。
+
+- 小瞎子: 负责前端开发，加入团队 2 年
+
+- bill guo: 高级 solidity 开发，负责公司 defi 产品线
 
 
 ### 三.产品线介绍
@@ -42,6 +46,15 @@
 
 #### 2. 外包产品线
 
+- 钱包
+- 交易所
+- NFT
+- Defi
+- 交易量化
+- 配资平台
+- GameFi
+- 元宇宙
+
 #### 3. 代码库
 
 - gingernet: https://github.com/gingernet
@@ -49,9 +62,7 @@
 - coinfamily: https://github.com/coinfamily
 - gitee: https://gitee.com/gingernet
 
-
 ### 四.合作伙伴
-
 
 
 
